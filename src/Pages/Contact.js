@@ -268,7 +268,7 @@ function Contact() {
                 </Box>
                 <Box sx={{ display: "flex", gap: "15px" }} className="cnt-link">
                   <i class="fa-regular fa-envelope"></i>
-                  <Typography type="email"  sx={{ color: "aqua"}}><a href="mailto:praveenpkumar.2024@gmail.com">praveenpkumar.2024@gmail.com</a></Typography>
+                  <Typography type="email"  sx={{ color: "aqua"}}><a href="mailto:praveenpkumar.2025@gmail.com">praveenpkumar.2025@gmail.com</a></Typography>
                 </Box>
               </Box>
 
